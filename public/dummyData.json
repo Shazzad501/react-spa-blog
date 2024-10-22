@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/ZYN2sD1/1.jpg",
+    "title": "Top 10 ES6 Features You Must Know",
+    "author": "Shazzad Maruf",
+    "author_img": "https://i.ibb.co.com/DwM4YKH/boy1.png",
+    "posted_date": "10 March 2024",
+    "reading_time": 7,
+    "hashtags": ["#beginners", "#ES6"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/TPwHdqz/2.png",
+    "title": "JavaScript Object for Absolute Beginners: A Fun Introduction",
+    "author": "Abdullah Al Mehmud",
+    "author_img": "https://i.ibb.co.com/b1fpymc/boy2.jpg",
+    "posted_date": "10 October 2024",
+    "reading_time": 5,
+    "hashtags": ["#javascript", "#coding", "#dev"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/fryqNXN/4.jpg",
+    "title": "AI and the Future of Work",
+    "author": "Puja Rani Nath",
+    "author_img": "https://i.ibb.co.com/WkSdJNg/girl1.jpg",
+    "posted_date": "23 April 2024",
+    "reading_time": 8,
+    "hashtags": ["#AI", "#technology", "#futureofwork"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/pQSdFF5/3.png",
+    "title": "Mastering the Art of Coding",
+    "author": "Sanjida Yasmin Raha",
+    "author_img": "https://i.ibb.co.com/JBfgpbB/girl2.jpg",
+    "posted_date": "30 September 2024",
+    "reading_time": 9,
+    "hashtags": ["#coding", "#reactjs", "#vuejs"]
+  }
+]
